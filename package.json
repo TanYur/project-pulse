@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:TanYur/puls.git"
   },
-  "author": "",
+  "author": "TanYur",
   "license": "ISC",
   "bugs": {
     "url": ""
