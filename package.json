@@ -1,5 +1,5 @@
 {
-  "name": "uber",
+  "name": "project-pusle",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TanYur/pulse-project"
+    "url": "https://github.com/TanYur/project-pulse.git"
   },
   "author": "TanYur",
   "license": "ISC",
