@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 /src/grafic
+/src/mailer/smart.php
 
 
 # testing
