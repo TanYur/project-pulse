@@ -1,2 +1,2 @@
 # project-pulse
--[look it](https://github.com/TanYur/project-pulse)
+-[look it](https://tanyur.github.io/project-pulse/)
